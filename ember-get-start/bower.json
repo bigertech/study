@@ -1,0 +1,19 @@
+{
+  "name": "ember-get-start",
+  "version": "1.0.0",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ember": "~1.8.1",
+    "ember-data": "~0.0.14"
+  }
+}
