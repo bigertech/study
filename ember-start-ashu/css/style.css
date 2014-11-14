@@ -1,0 +1,25 @@
+/* Put your CSS here */
+html, body {
+    margin: 20px;
+}
+
+.markdown-left {
+  float: left;
+  width: 50%;
+}
+
+.text-right {
+  float: right;
+  width: 50%;
+  text-align: left !important;
+}
+
+.title,
+.intro,
+.markdown {
+  width: 435px;
+}
+
+.markdown {
+  height: 520px;
+}
