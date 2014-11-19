@@ -24,7 +24,7 @@ var _ = require("lodash");
 
 /**
  * _.difference(array, [values])
- * 对比两个数组，取出不相同的元素
+ * 对array排除指定的元素
  * @array   : 需要处理的数组
  * @[values]: 需要排除的元素
  */
